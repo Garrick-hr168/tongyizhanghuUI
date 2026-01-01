@@ -1,0 +1,20 @@
+{
+    "name": "binance-backend",
+    "version": "1.0.0",
+    "type": "module",
+    "scripts": {
+        "start": "node index.js"
+    },
+    "dependencies": {
+        "axios": "^1.13.2",
+        "bcrypt": "^5.1.0",
+        "body-parser": "^2.2.1",
+        "cors": "^2.8.5",
+        "dotenv": "^16.6.1",
+        "express": "^4.22.1",
+        "https-proxy-agent": "^7.0.6",
+        "jsonwebtoken": "^9.0.3",
+        "socks-proxy-agent": "^8.0.5",
+        "ws": "^8.18.3"
+    }
+}
